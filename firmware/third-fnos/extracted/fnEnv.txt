@@ -1,0 +1,7 @@
+verbosity=1
+bootlogo=false
+console=both
+extraargs=cma=256M earlycon=uart8250,mmio32,0xfeb50000 serror_panic=0
+fdtfile=rockchip/rk3588-hht3588-v12.dtb
+kernelfile=vmlinuz-6.18.18.c1145-trim
+usbstoragequirks=152d:0578:u

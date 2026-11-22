@@ -1,0 +1,2 @@
+
+gzip: fnos_Mainland-PE_arm_1.2.0701_rk3588-hht3588-v12-3nic-v3_2882.img.gz: invalid compressed data--crc error
