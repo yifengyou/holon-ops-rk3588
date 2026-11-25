@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [硬件规格](docs/硬件规格.md)
 * [固件列表](docs/固件列表.md)
+* [原厂固件](docs/原厂固件.md)
 * [刷机指引](docs/rom_update_guide.md)
     * [ophub armbian](docs/刷机指引/ophub_armbian.md)
     * [ophub 飞牛](docs/刷机指引/ophub_fnos.md)
